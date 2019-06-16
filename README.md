@@ -14,10 +14,9 @@ here you can also get an .sql file
 Go to Localhost/phpmyadmin in your web browser 
 and create a database name artify 
 
-
-    ```
-        CREATE DATABASE artify
-     ``` 
+ ```sql
+   CREATE DATABASE artify
+``` 
  
 URL:-
 
