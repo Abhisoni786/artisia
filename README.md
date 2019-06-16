@@ -1,4 +1,4 @@
-## Artisia Art gallery
+# Artisia Art gallery
 
 Welcome to <b>artisia art gallery</b> 
 
@@ -12,6 +12,7 @@ After download it extract it and paste the assests from into project directory
 here you can also get an .sql file 
 Go to Localhost/phpmyadmin in your web browser 
 and create a database name artify   and import that file into it 
+URL:-
 
     http://localhost/phpmyadmin/
 
