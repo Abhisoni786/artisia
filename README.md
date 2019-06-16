@@ -2,7 +2,7 @@
 
 Welcome to <b>artisia art gallery</b> 
 
-## How to download proect?
+## How to download project?
 To download this project click on clone/download on above the menu 
 
 To get assests images download it from 
