@@ -2,6 +2,9 @@
 
 Welcome to <b>artisia art gallery</b> 
 
+
+![logo](https://raw.githubusercontent.com/Abhisoni786/artisia/master/img/images.png?raw=true)
+
 ## How to download project?
 To download this project click on clone/download on above the menu 
 
